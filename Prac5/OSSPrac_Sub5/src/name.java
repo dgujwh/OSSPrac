@@ -1,5 +1,3 @@
-package Sub5;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -11,6 +9,7 @@ public class name {
 
         String std_name;
         String std_num;
+        String std_major;
 
         System.out.print("이름을 입력하세요: ");
         std_name = br.readLine();
@@ -18,9 +17,14 @@ public class name {
         System.out.print("학번을 입력하세요: ");
         std_num = br.readLine();
 
+        System.out.print("학과를 입력하세요: ");
+        std_major = br.readLine();
+
         sb.append("\n").append("<출력>");
         sb.append("\n").append("이름: ").append(std_name);
         sb.append("\n").append("학번: ").append(std_num);
+        sb.append("\n").append("학과: ").append(std_major);
+
         System.out.println(sb);
 
         /*
@@ -28,6 +32,7 @@ public class name {
         System.out.println("<출력>");
         System.out.println("이름: " + std_name);
         System.out.println("학번: " + std_num);
+        System.out.println("학과: " + std_major);
         */
     }
 }
