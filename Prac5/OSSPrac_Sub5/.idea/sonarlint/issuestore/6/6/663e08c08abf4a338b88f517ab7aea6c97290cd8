@@ -1,13 +1,15 @@
 
-Œ	java:S117
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶›¿¥J$0ef801f6-235d-48cf-8087-717f17aa7aac
-Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú°ˆµJ$7100a2ab-53c4-4f44-ad37-a5229ee63f80
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïŞî¨üÿÿÿÿ8à¢—¢2J$894bd416-1155-49e9-979b-b5906507afad
-ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£‚‚êJ$6b5c4dc8-9dfa-4b47-8053-257434d2b596
+“	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶›¿¥8Œæº¢2J$ca2c7e5d-1590-4d4c-971e-cec0f5749ab2
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú°ˆµ8Œæº¢2J$eb6e6bd4-b2ad-44ef-a5a5-cba2fbbf3fb5
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïŞî¨üÿÿÿÿ8Œæº¢2J$3cea725d-4536-4a6f-81f9-31633e11744d
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼äÇ·8Œæº¢2J$8a9aeb22-e784-4880-9445-8756b73493ee
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£‚‚ê8Œæº¢2J$183c92bd-1aba-428b-8a9d-213e2ff4360e
 ]
-java:S1220""Move this file to a named package.8öŞ›—¢2J$ca23a3e8-0801-424e-b483-9d64aac6cf9a
-k	java:S106"+Replace this use of System.out by a logger.(ñ¶˜´ÿÿÿÿÿJ$b4c33680-5349-4ca5-a74d-ccb49df0da90
-k	java:S106"+Replace this use of System.out by a logger.(şÚ´íûÿÿÿÿJ$7d84161b-a2ef-42b5-bce0-6446eca0442d
-f	java:S106"+Replace this use of System.out by a logger.(ÍİÖÊJ$d7006bc5-8ea9-4360-b688-0a2c7e2ad864
-r	java:S106"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8ì‘¡—¢2J$7b0f8ece-787f-46e7-806c-b956ccf8e1e0
-|	java:S125"<This block of commented-out lines of code should be removed.(ªÓ¼áşÿÿÿÿJ$29542675-8624-4bea-9fdf-3fc1248113b3
+java:S1220""Move this file to a named package.8Œæº¢2J$17cfd143-3c0a-4a26-b4dc-e0042429ece1
+r	java:S106"+Replace this use of System.out by a logger.(ñ¶˜´ÿÿÿÿÿ8œŒæº¢2J$428231d9-8137-447f-815f-d9e88a81ec6a
+r	java:S106"+Replace this use of System.out by a logger.(şÚ´íûÿÿÿÿ8œŒæº¢2J$4c4e3f29-09ca-4b98-adc1-b20c6d2a2f22
+m	java:S106"+Replace this use of System.out by a logger.(ÍİÖÊ8Œæº¢2J$b19377f9-3b2e-4a7b-81ef-0a6049b25efc
+r	java:S106"+Replace this use of System.out by a logger.(‚ëÍ»ÿÿÿÿÿ8Œæº¢2J$dd974304-2ff7-49fe-a022-6312af52231e
+r	java:S106!"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Ôíçº¢2J$752c8868-9b7b-45c1-b90a-37dddda54409
+ƒ	java:S125$"<This block of commented-out lines of code should be removed.(ªÓ¼áşÿÿÿÿ8ŸŒæº¢2J$230e5034-b214-4153-9ee5-a87b53c516be
