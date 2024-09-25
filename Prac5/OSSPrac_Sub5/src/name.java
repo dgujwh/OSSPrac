@@ -11,6 +11,8 @@ public class name {
         String std_num;
         String std_major;
         String std_grade;
+        String std_univ;
+
 
         System.out.print("이름을 입력하세요: ");
         std_name = br.readLine();
@@ -23,12 +25,16 @@ public class name {
 
         System.out.print("학년을 입력하세요: ");
         std_grade = br.readLine();
+      
+        System.out.print("학교를 입력하세요: ");
+        std_univ = br.readLine();
 
         sb.append("\n").append("<출력>");
         sb.append("\n").append("이름: ").append(std_name);
         sb.append("\n").append("학번: ").append(std_num);
         sb.append("\n").append("학과: ").append(std_major);
         sb.append("\n").append("학년: ").append(std_grade);
+        sb.append("\n").append("학교: ").append(std_univ);
 
         System.out.println(sb);
 
@@ -39,6 +45,7 @@ public class name {
         System.out.println("학번: " + std_num);
         System.out.println("학과: " + std_major);
         System.out.println("학년: " + std_grade);
+        System.out.println("학교: " + std_univ);
         */
     }
 }

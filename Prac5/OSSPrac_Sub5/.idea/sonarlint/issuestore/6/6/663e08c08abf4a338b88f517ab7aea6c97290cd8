@@ -1,15 +1,15 @@
-
-“	java:S117
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶›¿¥8Œæº¢2J$ca2c7e5d-1590-4d4c-971e-cec0f5749ab2
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú°ˆµ8Œæº¢2J$eb6e6bd4-b2ad-44ef-a5a5-cba2fbbf3fb5
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïŞî¨üÿÿÿÿ8Œæº¢2J$3cea725d-4536-4a6f-81f9-31633e11744d
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼äÇ·8Œæº¢2J$8a9aeb22-e784-4880-9445-8756b73493ee
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£‚‚ê8Œæº¢2J$183c92bd-1aba-428b-8a9d-213e2ff4360e
+Å’	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¶â€ºÂ¿Â¥J$3a46c806-a2e8-4de4-831f-7e189de0e486
+Å’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃšÂ°Ë†ÂµJ$040f4cfd-1fae-455b-a577-e36d6eeac45c
+Ëœ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¯ÃÃ®Â¨Ã¼Ã¿Ã¿Ã¿Ã¿8Ã ÂÂ¢â€”Â¢2J$5027595d-715f-4ba9-a927-e1b8172dbedc
+â€œ	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¡â€œÃ¬Ãµ8Â´ÃªÅ¾ÂºÂ¢2J$f637fc14-46e1-4009-96f4-d93a74bd50a4
+Ë†	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Â£â€šâ€šÃªJ$518cf934-a63b-410f-b0de-d9d386019ec9
 ]
-java:S1220""Move this file to a named package.8Œæº¢2J$17cfd143-3c0a-4a26-b4dc-e0042429ece1
-r	java:S106"+Replace this use of System.out by a logger.(ñ¶˜´ÿÿÿÿÿ8œŒæº¢2J$428231d9-8137-447f-815f-d9e88a81ec6a
-r	java:S106"+Replace this use of System.out by a logger.(şÚ´íûÿÿÿÿ8œŒæº¢2J$4c4e3f29-09ca-4b98-adc1-b20c6d2a2f22
-m	java:S106"+Replace this use of System.out by a logger.(ÍİÖÊ8Œæº¢2J$b19377f9-3b2e-4a7b-81ef-0a6049b25efc
-r	java:S106"+Replace this use of System.out by a logger.(‚ëÍ»ÿÿÿÿÿ8Œæº¢2J$dd974304-2ff7-49fe-a022-6312af52231e
-r	java:S106!"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Ôíçº¢2J$752c8868-9b7b-45c1-b90a-37dddda54409
-ƒ	java:S125$"<This block of commented-out lines of code should be removed.(ªÓ¼áşÿÿÿÿ8ŸŒæº¢2J$230e5034-b214-4153-9ee5-a87b53c516be
+java:S1220""Move this file to a named package.8Ã¶Ãâ€ºâ€”Â¢2J$1b62c6ca-30f0-42ba-acbc-31b0cb50eee8
+k	java:S106"+Replace this use of System.out by a logger.(Ã±Â¶ËœÂ´Ã¿Ã¿Ã¿Ã¿Ã¿J$5c526dda-6ccc-460c-88cc-a4f95dc3f3f4
+k	java:S106"+Replace this use of System.out by a logger.(Ã¾ÃšÂ´Ã­Ã»Ã¿Ã¿Ã¿Ã¿J$96105201-a26c-46af-bb25-98b4bc540ab0
+f	java:S106"+Replace this use of System.out by a logger.(ÃÃÃ–ÃŠJ$80f0ab84-4a02-4a3f-bb8e-ec4582c0b184
+r	java:S106"+Replace this use of System.out by a logger.(Æ’Ã·Â Â·Ã¸Ã¿Ã¿Ã¿Ã¿8Ã¬â€˜Â¡â€”Â¢2J$74bda63e-5a72-4d47-ade3-935a270decbd
+r	java:S106!"+Replace this use of System.out by a logger.(ÂÂ­Ã‹Ã–Ã¾Ã¿Ã¿Ã¿Ã¿8ÃÃªÅ¾ÂºÂ¢2J$71ba949e-a555-4324-a323-c7cda8266d62
+|	java:S125$"<This block of commented-out lines of code should be removed.(ÂªÃ“Â¼Ã¡Ã¾Ã¿Ã¿Ã¿Ã¿J$67308e64-bb86-49de-9b41-80e2fb452120
